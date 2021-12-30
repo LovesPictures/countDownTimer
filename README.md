@@ -7,7 +7,7 @@ Commit Date: 30th December 2021
 
 ## Guide
 
-The HTML, CSS, with some beginner javasript 💚
+The HTML, CSS, with some beginner Javasript 💚
 
 <!-- ## Useful links
 
